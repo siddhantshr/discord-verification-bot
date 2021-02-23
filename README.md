@@ -3,4 +3,6 @@ Don't copy or bald (PLS DONT COPY FFS)
 
 # INFO
 A discord bot which is made for server security!
-Inculdes a lot of features like bot kick, member quarantine and member verification 
+Inculdes a lot of features like bot kick, member quarantine and member verification
+
+## Copyright (c) 2021 AHiddenDonut
